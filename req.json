@@ -1,0 +1,269 @@
+{
+    "crop": {
+        "title": "Test Crop",
+        "type": "wheat",
+        "preferred_release_duration": 60,
+        "preferred_release_time": "08:00",
+        "automatic_irrigation": true,
+        "maintain_logs": true,
+        "hardware_paired": false,
+        "crop_health_status": null,
+        "next_irrigation": null,
+        "last_irrigation": null,
+        "release_duration": null,
+        "optimal_irrigation_time": null,
+        "created_on": "2024-05-06T04:11:03.535Z",
+        "deleted_on": null,
+        "hardware": {
+            "sensor_id": "HBKF1T",
+            "created_on": "2024-05-06T04:11:57.968Z",
+            "deleted_on": null
+        }
+    },
+    "readings": [
+        {
+            "moisture": 0.1,
+            "pH": 4,
+            "created_on": "2024-05-06T04:13:09.542Z",
+            "deleted_on": null
+        },
+        {
+            "moisture": 0.1,
+            "pH": 4,
+            "created_on": "2024-05-06T04:13:09.542Z",
+            "deleted_on": null
+        },
+        {
+            "moisture": 0.1,
+            "pH": 4,
+            "created_on": "2024-05-06T04:13:09.542Z",
+            "deleted_on": null
+        }
+    ],
+    "weather": {
+        "current": {
+            "time": "2024-05-06T04:00:00.000Z",
+            "temperature2m": 8.800000190734863,
+            "isDay": 1,
+            "precipitation": 0
+        },
+        "hourly": [
+            {
+                "time": "2024-05-05T16:00:00.000Z",
+                "temperature2m": 20.14550018310547,
+                "apparentTemperature": 17.56755828857422,
+                "precipitationProbability": 60,
+                "precipitation": 0,
+                "weatherCode": 1,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-05T17:00:00.000Z",
+                "temperature2m": 18.795499801635742,
+                "apparentTemperature": 15.234272003173828,
+                "precipitationProbability": 33,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-05T18:00:00.000Z",
+                "temperature2m": 17.295499801635742,
+                "apparentTemperature": 14.022525787353516,
+                "precipitationProbability": 6,
+                "precipitation": 0,
+                "weatherCode": 2,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-05T19:00:00.000Z",
+                "temperature2m": 16.045499801635742,
+                "apparentTemperature": 13.493759155273438,
+                "precipitationProbability": 4,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-05T20:00:00.000Z",
+                "temperature2m": 14.845499992370605,
+                "apparentTemperature": 12.51630973815918,
+                "precipitationProbability": 2,
+                "precipitation": 0,
+                "weatherCode": 1,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-05T21:00:00.000Z",
+                "temperature2m": 13.695499420166016,
+                "apparentTemperature": 11.772289276123047,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-05T22:00:00.000Z",
+                "temperature2m": 12.695499420166016,
+                "apparentTemperature": 11.061025619506836,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 0,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-05T23:00:00.000Z",
+                "temperature2m": 11.895500183105469,
+                "apparentTemperature": 10.118585586547852,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-06T00:00:00.000Z",
+                "temperature2m": 11.095499992370605,
+                "apparentTemperature": 8.856816291809082,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 1,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-06T01:00:00.000Z",
+                "temperature2m": 10.245499610900879,
+                "apparentTemperature": 8.489090919494629,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 1,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-06T02:00:00.000Z",
+                "temperature2m": 9.595499992370605,
+                "apparentTemperature": 7.959654808044434,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 0,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-06T03:00:00.000Z",
+                "temperature2m": 9.145500183105469,
+                "apparentTemperature": 7.558653831481934,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 0
+            },
+            {
+                "time": "2024-05-06T04:00:00.000Z",
+                "temperature2m": 8.795499801635742,
+                "apparentTemperature": 7.07313346862793,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T05:00:00.000Z",
+                "temperature2m": 9.395500183105469,
+                "apparentTemperature": 7.647730827331543,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 2,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T06:00:00.000Z",
+                "temperature2m": 10.995499610900879,
+                "apparentTemperature": 8.808470726013184,
+                "precipitationProbability": 0,
+                "precipitation": 0,
+                "weatherCode": 1,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T07:00:00.000Z",
+                "temperature2m": 12.295499801635742,
+                "apparentTemperature": 9.80607795715332,
+                "precipitationProbability": 1,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T08:00:00.000Z",
+                "temperature2m": 13.795499801635742,
+                "apparentTemperature": 11.456060409545898,
+                "precipitationProbability": 2,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T09:00:00.000Z",
+                "temperature2m": 15.345499992370605,
+                "apparentTemperature": 13.344623565673828,
+                "precipitationProbability": 3,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T10:00:00.000Z",
+                "temperature2m": 16.695499420166016,
+                "apparentTemperature": 15.171634674072266,
+                "precipitationProbability": 4,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T11:00:00.000Z",
+                "temperature2m": 17.945499420166016,
+                "apparentTemperature": 16.652875900268555,
+                "precipitationProbability": 5,
+                "precipitation": 0,
+                "weatherCode": 2,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T12:00:00.000Z",
+                "temperature2m": 18.59549903869629,
+                "apparentTemperature": 15.975332260131836,
+                "precipitationProbability": 6,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T13:00:00.000Z",
+                "temperature2m": 18.945499420166016,
+                "apparentTemperature": 16.28243637084961,
+                "precipitationProbability": 6,
+                "precipitation": 0,
+                "weatherCode": 3,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T14:00:00.000Z",
+                "temperature2m": 18.745500564575195,
+                "apparentTemperature": 15.723094940185547,
+                "precipitationProbability": 6,
+                "precipitation": 0,
+                "weatherCode": 2,
+                "isDay": 1
+            },
+            {
+                "time": "2024-05-06T15:00:00.000Z",
+                "temperature2m": 18.89550018310547,
+                "apparentTemperature": 15.814413070678711,
+                "precipitationProbability": 6,
+                "precipitation": 0,
+                "weatherCode": 2,
+                "isDay": 1
+            }
+        ]
+    }
+}
