@@ -2,17 +2,13 @@ import os
 import requests
 import json
 
-# Get the path of the JSON file
 json_file_path = os.path.join(os.path.dirname(__file__), 'req.json')
 
-# Read JSON data from the file
 with open(json_file_path, 'r') as file:
     new_data = json.load(file)
 
-# URL of the Flask app
 url = 'http://127.0.0.1:5000/predict'
 
-# Send POST request to predict moisture and water requirement
 response = requests.post(url, json=new_data)
 
 if response.status_code == 200:
